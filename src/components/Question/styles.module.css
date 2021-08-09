@@ -1,0 +1,16 @@
+.questionContainer {
+  border-radius: 10px;
+  background-color: #272d35;
+  margin: 50px auto;
+  padding: 25px;
+  width: 700px;
+  background-color: rgba(62, 158, 62, 0.404);
+}
+
+.questionContainer > h5 {
+  font-size: 15px;
+}
+
+.questionContainer > p {
+  font-size: 20px;
+}

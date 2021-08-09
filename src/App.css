@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.green {
+  border: 2px solid rgb(6, 240, 15);
+}
+
+.red {
+  border: 2px solid red;
+  color: red;
+}
+
+
+.App-header {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.hide-button {
+  display: none;
+}
+
+.App-logo {
+  display: flex;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 30px;
+}

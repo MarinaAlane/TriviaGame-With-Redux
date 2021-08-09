@@ -1,0 +1,26 @@
+.headerContent {
+  background-color: rgba(62, 158, 62, 0.404);
+  border-radius: 10px;
+  color: rgb(22, 20, 20);
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 500px;
+}
+
+.headerContent > img {
+  border-radius: 50%;
+  height: 80px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.headerText {
+  justify-content: space-between;
+  padding: 15px;
+  margin-left: 35%;
+}
+
+.headerUser {
+  font-size: 20px;
+}

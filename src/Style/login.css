@@ -1,0 +1,69 @@
+body {
+  background-color: #272d35;
+}
+
+.btn {
+  background-color: #272d35;
+  border: 1px solid rgb(56, 179, 62);
+  border-radius: 5%;
+  color: rgb(56, 179, 62);
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+button:disabled, button:hover {
+  background-color: #272d35;
+  color: black;
+
+}
+
+.btn-link {
+  background-color: white;
+  text-decoration: none;
+}
+
+.home-btn {
+  background-color: whitesmoke;
+  padding: 0.5%;
+}
+
+.home-btn :link {
+  text-decoration: none;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  height: 20px;
+  background-color: transparent;
+  color: rgb(56, 179, 62);
+  margin-top: 40px;
+  margin-bottom: 15px;
+  margin-left: 80px;
+}
+
+.nome {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  height: 20px;
+  background-color:transparent;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 80px;
+  color: rgb(56, 179, 62);
+  text-decoration: none;
+}
+
+.container-login {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border: green solid 2px;
+  border-radius: 5px;
+  padding-bottom: 25px;
+}
